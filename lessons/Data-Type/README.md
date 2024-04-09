@@ -61,3 +61,18 @@ last_name = "Dela Cruz"
 ```
 
 ### Number
+
+Python treats numbers in several different ways, depending on how they're being used.
+
+*integers*
+- any number without a decimal point is called an int.
+
+*floats*
+- any number with a decimal point is called a float
+
+```python
+
+banana = 45 # int
+apple = 45.6 # float
+
+```
