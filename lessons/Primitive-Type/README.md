@@ -33,7 +33,17 @@ print(lName)
 print(age)
 
 # to insert arguments inside a String we use formatted String
+# f-string is another term for string interpolation
 print(f"Hi my name is {fName} {lName} and I am {age} years old.")
 
 ```
+## Data Types
 
+String
+
+- Number
+    - int
+    - double
+
+
+Boolean
