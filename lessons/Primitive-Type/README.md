@@ -24,8 +24,8 @@ How to declare and initialize a varible
 - Also it is important to take note that python is a dynamic-typed language.
 """
 
-fName = 'Juan'
-lName = 'Dela Cruz'
+first_name = 'Juan'
+last_name = 'Dela Cruz'
 age = 23
 
 print(fName)
@@ -34,7 +34,7 @@ print(age)
 
 # to insert arguments inside a String we use formatted String
 # f-string is another term for string interpolation
-print(f"Hi my name is {fName} {lName} and I am {age} years old.")
+print(f"Hi my name is {first_name} {last_name} and I am {age} years old.")
 
 ```
 ## Data Types
