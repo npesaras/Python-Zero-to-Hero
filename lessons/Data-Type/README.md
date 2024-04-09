@@ -5,6 +5,7 @@
 - [Variable](#variable)
 - Data Type
     - [String](#string)
+    - [Numbers](#number)
 
 ## Variable
 ---
