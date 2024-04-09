@@ -49,5 +49,15 @@ print(f"Hi my name is {first_name} {last_name} and I am {age} years old.")
 
 ### String
 
+Series of characters. Anything inside a quotes is considered a string in Python, you can use single or double quotes around your strings like this:
+
+```python
+"""
+Even if I use double or single quote. The program still recognize it as a string.
+"""
+first_name = 'Juan'
+last_name = "Dela Cruz"
+
+```
 
 ### Number
