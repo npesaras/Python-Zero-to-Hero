@@ -20,7 +20,13 @@ for char in userInput:
         upper.append(char)
         
 # joining both list
-sorted_list = ''.join(lower + upper)
+lower_first = ''.join(lower + upper)
+upper_first = ''.join(upper + lower)
 
 # print the result
-print('Result:',sorted_list)
+
+# lower first
+print('Result lower first:',lower_first)
+
+# upper first
+print('Result upper first:',upper_first)

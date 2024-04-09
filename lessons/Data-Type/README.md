@@ -1,6 +1,13 @@
 # Variable and Data Type
 
+*Table of Contents*
+
+- [Variable](#variable)
+- Data Type
+    - [String](#string)
+
 ## Variable
+---
 
 Variable names must follow a set of rules in order to be considered valid.
 These rules include:
@@ -38,12 +45,9 @@ print(f"Hi my name is {first_name} {last_name} and I am {age} years old.")
 
 ```
 ## Data Types
+---
 
-String
-
-- Number
-    - int
-    - double
+### String
 
 
-Boolean
+### Number
